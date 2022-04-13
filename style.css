@@ -57,7 +57,7 @@ button {
   position: absolute;
   top: -50px;
   left: -100px;
-  background-image: url(media/loutrescaleyt.png);
+  background-image: url(loutrescaleyt.png);
   z-index: -1;
   transition: all .5s;
 }
@@ -68,7 +68,7 @@ button {
   position: absolute;
   top: -50px;
   left: -100px;
-  background-image: url(media/loutrescaletiktok.png);
+  background-image: url(loutrescaletiktok.png);
   z-index: -1;
   transition: all .5s;
 }
@@ -79,7 +79,7 @@ button {
   position: absolute;
   top: -50px;
   left: -100px;
-  background-image: url(media/loutrescaletwitch.png);
+  background-image: url(loutrescaletwitch.png);
   z-index: -1;
   transition: all .5s;
 }
@@ -90,7 +90,7 @@ button {
   position: absolute;
   top: -50px;
   left: -100px;
-  background-image: url(media/loutrescaledon.png);
+  background-image: url(loutrescaledon.png);
   z-index: -1;
   transition: all .5s;
 }
